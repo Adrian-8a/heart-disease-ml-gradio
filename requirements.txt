@@ -1,0 +1,8 @@
+gradio
+matplotlib
+numpy
+pandas
+scikit-fuzzy
+scikit-learn
+umap-learn
+notebook
